@@ -5,6 +5,7 @@ socks5://123.58.219.171:10808 #unknown
 socks5://154.91.176.171:1080 #unknown
 socks5://13.215.27.14:1080 #unknown
 socks5://43.164.136.189:1080 #unknown
+socks5://3.238.2.73:1080 #unknown
 socks5://35.78.212.217:32053 #unknown
 socks5://67.201.39.14:4145 #us
 socks5://59.36.210.211:13552 #cn
