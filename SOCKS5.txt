@@ -62,10 +62,10 @@ socks5://118.145.141.251:44150 #unknown
 socks5://150.242.218.137:1080 #unknown
 socks5://5.249.165.195:20000 #unknown
 socks5://118.145.141.251:44138 #unknown
+socks5://45.95.202.92:10808 #unknown
 socks5://85.174.84.22:1080 #unknown
 socks5://174.77.111.197:4145 #us
 socks5://118.145.141.251:44017 #unknown
-socks5://45.95.202.92:10808 #unknown
 socks5://118.145.141.251:44231 #unknown
 socks5://66.42.224.229:41679 #us
 socks5://34.229.113.62:1080 #unknown
